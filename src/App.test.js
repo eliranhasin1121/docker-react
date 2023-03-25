@@ -3,5 +3,5 @@ import App from './App';
 
 test('renders learn react link', () => {
   const linkElement = 1;
-  expect(10).equalTo(10);
+  expect(10).toEqual(10);
 });
